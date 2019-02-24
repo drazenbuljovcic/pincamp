@@ -1,0 +1,9 @@
+To run this script NodeJS is needed.
+
+Simply run
+
+```
+  node ./roman-numeral-converter.js (input)
+```
+
+In the place of the input a number needs to be passed as an argument and the script will output it's roman numeral counterpart.
